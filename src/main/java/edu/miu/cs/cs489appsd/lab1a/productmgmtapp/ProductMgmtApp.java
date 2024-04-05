@@ -8,7 +8,6 @@ import com.fasterxml.jackson.dataformat.csv.CsvMapper;
 import com.fasterxml.jackson.dataformat.csv.CsvSchema;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
-import com.google.gson.Gson;
 import edu.miu.cs.cs489appsd.lab1a.productmgmtapp.model.Product;
 
 import java.text.SimpleDateFormat;
